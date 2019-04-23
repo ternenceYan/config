@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/yanyunyang/config-repo
+          uri: https://github.com/ternenceYan/config-repo
           username: ternenceyan@163.com
           password: 3698521yyy
 eureka:
